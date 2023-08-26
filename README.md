@@ -1,2 +1,2 @@
 # threejs_AITshirt
-Site Live @ https://curious-unicorn-882183.netlify.app/
+Site Live @ https://threejs-ai-tshirt.vercel.app/
